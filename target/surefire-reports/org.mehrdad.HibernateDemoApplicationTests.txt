@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.mehrdad.HibernateDemoApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 11.168 sec - in org.mehrdad.HibernateDemoApplicationTests

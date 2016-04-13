@@ -1,0 +1,13 @@
+{
+  "groups": [{
+    "name": "my",
+    "type": "org.mehrdad.MyConfig",
+    "sourceType": "org.mehrdad.MyConfig"
+  }],
+  "properties": [{
+    "name": "my.servers",
+    "type": "java.util.List<java.lang.String>",
+    "sourceType": "org.mehrdad.MyConfig"
+  }],
+  "hints": []
+}
